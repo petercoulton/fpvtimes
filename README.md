@@ -6,6 +6,7 @@ Desert
 | Chris          | 14.20         |
 | Andrew         | 20.38         |
 | Peter          | 22.28         |
+| Peter (9xE)    | 41.08         |
 
 
 Meadow
