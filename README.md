@@ -6,7 +6,7 @@ Desert
 | Chris          | 14.20         |
 | Andrew         | 18.72         |
 | Peter          | 22.28         |
-| Peter (9xE)    | 41.08         |
+| Peter (9xE)    | 22.86         |
 
 
 Meadow
@@ -43,4 +43,4 @@ Car Park
 | -------------- |:--------------|
 | Chris          | 38.82         |
 | Andrew         | -             |
-| Peter          | -             |
+| Peter          | 196.64        |
